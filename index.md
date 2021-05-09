@@ -25,3 +25,7 @@
 ## Week 5
 ### Conditional Loops
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w3FPOp0I8Ps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Week 6
+### If-Else
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9AkGVfDvu8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
