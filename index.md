@@ -33,3 +33,7 @@
 ## Week 7
 ### Nested If-Else
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GvMkTX8uRD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Week 8
+### Compound Conditionals
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A9v1mMCHeGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
