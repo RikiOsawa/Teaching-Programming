@@ -41,3 +41,7 @@
 ## Week 9
 ### Abstraction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S8hOCuG0tkM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## Week 10
+### Lists
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I6gUrnkzaLk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
